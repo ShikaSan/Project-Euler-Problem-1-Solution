@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1593619805 source:c:\users\acer\documents\cpp\project_euler_prob1\project_euler_multiples3_5\main.cpp
+	<iostream>
+	<math.h>
+
