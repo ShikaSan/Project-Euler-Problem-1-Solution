@@ -1,2 +1,2 @@
 # Project Euler Solutions
-Solutions to Project Euler problems/puzzle.
+Solutions to Project Euler problems/puzzles.
